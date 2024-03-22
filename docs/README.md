@@ -33,7 +33,7 @@
 ##  347 Dienst mit Container anwenden
 - [Documentation](https://m347.bbzbl-it.dev/)
 - [Project](https://github.com/bbzblit/M347)
-- 
+
 ## 450 Applikationen testen
 - [LB1](https://github.com/bbzblit/m450-lb1)
 - [LB3](https://m450-lb3.bbzbl-it.dev/)
